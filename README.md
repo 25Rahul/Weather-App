@@ -1,4 +1,3 @@
-# MultiChat-Application
+# Weather App
 
-Computer Networks Mini Project
-|CONCEPT - Socket Programming 
+A simple HTML, CSS and JavaScript application to display weather of any location using API.
